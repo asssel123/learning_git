@@ -1,4 +1,4 @@
-<?php
-$x = 5 
-echo "Hello world"
- ?>
+<?php 
+$x = 5;
+echo 'Hello, world!';
+?>
